@@ -1,7 +1,7 @@
 package com.Streams;
 
 public class Streams {
-
+}
 	//2 things are coming at a same time we should go for streams
 	
 	//if u want process each obj from collection one by one use Streams concept

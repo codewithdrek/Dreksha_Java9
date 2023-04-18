@@ -8,6 +8,7 @@ public class CustomDateFormat {
 	public static void main(String[] args) {
 		LocalDate localDate = LocalDate.now();
 		System.out.println(localDate);
+		
 		int day = localDate.getDayOfMonth();
 		int month = localDate.getMonthValue();
 		int year= localDate.getYear();
