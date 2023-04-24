@@ -1,4 +1,4 @@
-package com.PreDefineFunctionalInterface;
+package com.swaping;
 
 import java.util.HashSet;
 

@@ -25,16 +25,23 @@ public class EmployeeTest {
 		System.out.println("Bangalore information: ");
 		displayModeD(p3, arrayList);
 
-		
 		// Fourth Condition
-		Predicate<Emplyoee> p4 = s -> s.salary >=41200;
+		Predicate<Emplyoee> p4 = s -> s.salary >= 41200;
 		System.out.println("Salary information: ");
 		displayModeD(p4, arrayList);
-      
-		//Fifth Condition
+
+		// Fifth Condition and()
 		System.out.println("CEO and Bangalore  information: ");
 		displayModeD(p1.and(p3), arrayList);
-		
+
+		// Six Condition negate()
+		System.out.println("or information: ");
+		displayModeD(p1.or(p3), arrayList);
+
+		// 7th Condition negate()
+		System.out.println("negate information: ");
+		displayModeD(p4.negate(), arrayList);
+
 		// System.out.println(arrayList);
 		// System.out.println(Arrays.asList(arrayList));
 		// System.out.println(arrayList.toArray().toString());

@@ -1,6 +1,6 @@
 package com.PreDefineFunctionalInterface;
 
-public class FunctionalInterfaceTheory {
+public class PreDefineFunctionalInterfaceTheory {
 
 	
 	//Definition
