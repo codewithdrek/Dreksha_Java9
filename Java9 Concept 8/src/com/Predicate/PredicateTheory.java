@@ -1,4 +1,4 @@
-package com.PreDefineFunctionalInterface.Predicate;
+package com.Predicate;
 
 
 public class PredicateTheory {

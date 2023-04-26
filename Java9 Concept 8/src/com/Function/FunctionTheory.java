@@ -1,4 +1,4 @@
-package com.PreDefineFunctionalInterface.FunctionTest;
+package com.Function;
 
 public class FunctionTheory {
 

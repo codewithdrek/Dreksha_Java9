@@ -1,4 +1,4 @@
-package com.PreDefineFunctionalInterface.Predicate;
+package com.Predicate;
 
 import java.util.ArrayList;
 import java.util.function.Predicate;

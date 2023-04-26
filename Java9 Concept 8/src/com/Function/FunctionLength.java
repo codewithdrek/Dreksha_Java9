@@ -1,8 +1,8 @@
-package com.PreDefineFunctionalInterface.FunctionTest;
+package com.Function;
 
 import java.util.function.Function;
 
-public class FunctionTest {
+public class FunctionLength {
 
 	
 	public static void main(String[] args) {
