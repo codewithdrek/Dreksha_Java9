@@ -70,5 +70,8 @@ class Student {
 
 		}
 	}
+	
+	//always rmb Linklist while loop lagta hai 
+	//Java 8 design patterns me always use forloop
 
 

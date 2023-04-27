@@ -1,8 +1,10 @@
 
 
-package com.PreDefineFunctionalInterface;
+package com.Consumer;
 
-public class Consumer {
+import java.util.function.Consumer;
+
+public class ConsumerDemo {
      //only consume
 	//never return anything
 	//same like function
@@ -13,4 +15,10 @@ public class Consumer {
 		 * public void accept(T t ); }
 		 */
 	//Scenario when we dont want to return anything only consume
+
+	public static void main(String[] args) {
+		
+		Consumer<String> c= n-> System.out.println(n);
+		c.accept("DRE");
+	}
 }

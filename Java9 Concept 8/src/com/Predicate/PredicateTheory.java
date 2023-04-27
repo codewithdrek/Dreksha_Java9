@@ -30,7 +30,7 @@ public class PredicateTheory {
 	//3 ways
 	
 	
-	//normal method
+	//abstract method
 	/*
 	 * public boolean test(Integer I) {
 	 *  if (I > 10) return true; 
@@ -39,7 +39,7 @@ public class PredicateTheory {
 	 */
 
 	
-	//Using Lemada EXp no method name,no access modifire,no return type 
+	//Using Lemada EXp no method name,no access modifier,no return type 
 	/*
 	 * (Integer I)->{ if(I>10) {
 	 *  return true; else return false; 

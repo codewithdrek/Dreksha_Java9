@@ -1,4 +1,4 @@
-package com.PreDefineFunctionalInterface;
+package com.Suppliear;
 
 public class SupplierTheory {
 //counter part of consumer

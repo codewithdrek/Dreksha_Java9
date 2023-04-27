@@ -20,5 +20,7 @@ public class PreDefineFunctionalInterfaceTheory {
 	//Runnable->run() 
 	
 	
-	// By using a lambda expression, we can declare methods without any name. Whereas, Anonymous class is an inner class without a name, which means that we can declare and instantiate class at the same time.11-Mar-2022
+	// By using a lambda expression, we can declare methods without any name. 
+	//Whereas, Anonymous class is an inner class without a name, which means that
+	//we can declare and instantiate class at the same time
 }

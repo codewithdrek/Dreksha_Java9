@@ -1,7 +1,5 @@
 package com.Predicate;
 
-import java.util.Scanner;
-import java.util.function.Predicate;
 
 class AuthUsingPredicate {
 
